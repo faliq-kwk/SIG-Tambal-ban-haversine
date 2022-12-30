@@ -32,7 +32,6 @@ function DashboardAdmin() {
                                              <h1 className="text-2xl tracking-tight font-bold text-slate-800 sm:text-2xl md:text-3xl">
                                                   <span className="block xl:inline">Selamat Datang Di Halaman Admin Sistem Informasi Pencarian Lokasi Tambal Ban Terdekat Di Kabupaten Jepara</span>
                                              </h1>
-                                             {/* <p className="mt-3 text-base text-slate-400 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">Sebelum Menjalankan Aplikasi Silahkan Hidupkan Lokasi Terlebih Dahulu</p> */}
                                              <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                                                   <div className="rounded-md shadow">
                                                        <Link to={"/cari-bengkel-admin"} className="w-full flex items-center justify-center px-8 py-3 border-2 border-slate-900 text-base font-medium rounded-md text-slate-900 bg-slate-100 hover:bg-slate-300 md:py-4 md:text-lg md:px-10"> Cari Bengkel </Link>
