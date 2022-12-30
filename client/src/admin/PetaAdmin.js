@@ -69,10 +69,7 @@ const PetaAdmin = () => {
                                              <h3 className="">Alamat :{selectedElement.alamat}</h3>
                                              <h3 className="">Telepon : +{selectedElement.telepon}</h3>
                                              <h3 className="">Fasilitas : {selectedElement.fasilitas}</h3>
-                                             {/* <div>
-                                                  <a href="/HubungiBengkel" className="mt-3 mr-2 bg-slate-200 hover:bg-slate-600 hover:text-white text-slate-900 font-bold py-2 px-4 rounded inline-flex items-center border-2">Hubungi Bengkel</a>
-                                                  <a href="/PetunjukArah" className="mt-3 mr-2 bg-slate-200 hover:bg-slate-600 hover:text-white text-slate-900 font-bold py-2 px-4 rounded inline-flex items-center border-2">Patunjuk arah</a>
-                                             </div> */}
+                                             
                                         </div>
                                    </InfoWindow>
 
