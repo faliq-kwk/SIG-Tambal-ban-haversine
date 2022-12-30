@@ -60,7 +60,7 @@ function Directions() {
 
      // Map options
      const { ref, map, google } = useGoogleMaps(
-          "https://maps.googleapis.com/maps/api/directions/js?key=AIzaSyCrHq7bTjOXDllhFGtdgs96-FgKHUfiGmI",
+          "YOUR_API_KEY",
           {
                zoom: 11,
                center: point
